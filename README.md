@@ -6,5 +6,4 @@ This is a copy of the Twenty Twenty-Five template which has been downloaded and 
 
 | Date | Action |
 |---|---|
-| 20251228 | Set up the git repo, copy the wordpress template down. Edits: Rename "Slug: twentytwentyfive/" to "Slug: CBF/" in all the files .|
-
+| 20251228 | Set up the git repo, copy the wordpress template down. Edits: Rename "Slug: twentytwentyfive/" to "Slug: CBF/" in all the files.|
